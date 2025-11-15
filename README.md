@@ -9,12 +9,15 @@ It centralizes templates, workflows, and guidelines used across the organization
 - [.github/](https://github.com/aicommunitysl/.github/) - Root directory of the repository.
   - [.github/](https://github.com/aicommunitysl/.github/tree/main/.github) - GitHub-specific files (workflows, templates, etc.).
     - [ISSUE_TEMPLATE/](https://github.com/aicommunitysl/.github/tree/main/.github/ISSUE_TEMPLATE) - Contains all issue templates.
-    - [bug_report.md](https://github.com/aicommunitysl/.github/blob/main/.github/ISSUE_TEMPLATE/bug_report.md) - Template for reporting bugs.
-    - [documentation_update.md](https://github.com/aicommunitysl/.github/blob/main/.github/ISSUE_TEMPLATE/documentation_update.md) - Template for documentation updates.
-    - [feature_request.md](https://github.com/aicommunitysl/.github/blob/main/.github/ISSUE_TEMPLATE/feature_request.md) - Template for suggesting new features.
-    - [feedback.md](https://github.com/aicommunitysl/.github/blob/main/.github/ISSUE_TEMPLATE/feedback.md) - Template for general feedback.
-    - [other.md](https://github.com/aicommunitysl/.github/blob/main/.github/ISSUE_TEMPLATE/other.md) - Template for other types of issues.
+      - [bug_report.md](https://github.com/aicommunitysl/.github/blob/main/.github/ISSUE_TEMPLATE/bug_report.md) - Template for reporting bugs.
+      - [documentation_update.md](https://github.com/aicommunitysl/.github/blob/main/.github/ISSUE_TEMPLATE/documentation_update.md) - Template for documentation updates.
+      - [feature_request.md](https://github.com/aicommunitysl/.github/blob/main/.github/ISSUE_TEMPLATE/feature_request.md) - Template for suggesting new features.
+      - [feedback.md](https://github.com/aicommunitysl/.github/blob/main/.github/ISSUE_TEMPLATE/feedback.md) - Template for general feedback.
+      - [other.md](https://github.com/aicommunitysl/.github/blob/main/.github/ISSUE_TEMPLATE/other.md) - Template for other types of issues.
     - [PULL_REQUEST_TEMPLATE.md](https://github.com/aicommunitysl/.github/blob/main/.github/PULL_REQUEST_TEMPLATE.md) - Template for pull request submissions.
+  - [assets/](https://github.com/aicommunitysl/.github/tree/main/assets) - Contains images and other assets used in documentation.
+  - [profile/](https://github.com/aicommunitysl/.github/tree/main/profile) - Contains profile related files.
+    - [README.md](https://github.com/aicommunitysl/.github/blob/main/profile/README.md) - Profile overview.
   - [BRANCH_NAMING_GUIDELINES.md](https://github.com/aicommunitysl/.github/blob/main/BRANCH_NAMING_GUIDELINES.md) - Branch naming rules.
   - [CHANGELOG.md](https://github.com/aicommunitysl/.github/blob/main/CHANGELOG.md) - Record of project changes.
   - [CITATION.cff](https://github.com/aicommunitysl/.github/blob/main/CITATION.cff) - Standardized citation information for the repository.
