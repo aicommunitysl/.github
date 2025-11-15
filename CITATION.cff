@@ -1,0 +1,21 @@
+cff-version: "1.2.0"
+message: "If you use this repository in your research or work, please cite it using the metadata below."
+title: "AI Community Sri Lanka - GitHub Community Standards"
+version: "0.0.1"
+date-released: "2025-11-15"
+url: "https://github.com/aicommunitysl/.github"
+authors:
+  - name: "AI Community Sri Lanka"
+    affiliation: "GitHub: aicommunitysl"
+keywords:
+  - Community
+  - Standards
+  - GitHub
+  - AI Community Sri Lanka
+license: "MIT"
+abstract: |
+  This repository contains community standards and guidelines personally used 
+  by the author for GitHub projects. It includes templates, contributing 
+  guidelines, and best practices to help maintain consistency and quality 
+  across projects.
+repository-code: "https://github.com/aicommunitysl/.github"
